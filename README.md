@@ -1,8 +1,8 @@
 # Telegram-Bot-API
 Telegram API and Bot integration  with IoT services (2021.12~2022.2)
 
-Telegram APIs
--Bot API
+Telegram APIs \n
+-Bot API \n
 -Telegram API and TDLib(Telegram Database Library)
 
 Telegram API와 통합된 IoT applications 개발
